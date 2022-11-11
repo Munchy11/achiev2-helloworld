@@ -1,5 +1,10 @@
-cpnt201-Achievments-NPM
-Lucas Muenchrath
+### cpnt201-Achievments-NPM
+
+### Lucas Muenchrath
+
+### Hello World! Achievement
+
+
 
 1. I started off by cloning my GitHub repo
 2. I then proceeded to follow the intructions given, and used the command $ npm init to get my package.json file.
