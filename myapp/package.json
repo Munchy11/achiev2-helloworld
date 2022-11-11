@@ -1,0 +1,22 @@
+{
+  "name": "achiev2-helloworld",
+  "version": "1.0.0",
+  "description": "Hello World!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Munchy11/achiev2-helloworld.git"
+  },
+  "author": "Lucas Muenchrath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Munchy11/achiev2-helloworld/issues"
+  },
+  "homepage": "https://github.com/Munchy11/achiev2-helloworld#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
